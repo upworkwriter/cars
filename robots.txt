@@ -1,1 +1,1 @@
-Sitemap: https://uscloud.netlify.app/sitemap.xml
+Sitemap: https://autofan.netlify.app/sitemap.xml
